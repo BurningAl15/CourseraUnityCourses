@@ -1,0 +1,13 @@
+C:\Users\A.T\Documents\Visual Studio 2017\Projects\AppleExercise\AppleExercise\bin\Debug\AppleExercise.exe.config
+C:\Users\A.T\documents\visual studio 2017\Projects\AppleExercise\AppleExercise\bin\Debug\AppleExercise.exe
+C:\Users\A.T\documents\visual studio 2017\Projects\AppleExercise\AppleExercise\bin\Debug\AppleExercise.pdb
+C:\Users\A.T\documents\visual studio 2017\Projects\AppleExercise\AppleExercise\obj\Debug\AppleExercise.csprojResolveAssemblyReference.cache
+C:\Users\A.T\documents\visual studio 2017\Projects\AppleExercise\AppleExercise\obj\Debug\AppleExercise.exe
+C:\Users\A.T\documents\visual studio 2017\Projects\AppleExercise\AppleExercise\obj\Debug\AppleExercise.pdb
+C:\Users\Aldair\Documents\Coursera Certified Unity Course\More Programming\Ejercicio 10\AppleExercise\bin\Debug\AppleExercise.exe.config
+C:\Users\Aldair\Documents\Coursera Certified Unity Course\More Programming\Ejercicio 10\AppleExercise\bin\Debug\AppleExercise.exe
+C:\Users\Aldair\Documents\Coursera Certified Unity Course\More Programming\Ejercicio 10\AppleExercise\bin\Debug\AppleExercise.pdb
+C:\Users\Aldair\Documents\Coursera Certified Unity Course\More Programming\Ejercicio 10\AppleExercise\obj\Debug\AppleExercise.csprojAssemblyReference.cache
+C:\Users\Aldair\Documents\Coursera Certified Unity Course\More Programming\Ejercicio 10\AppleExercise\obj\Debug\AppleExercise.csproj.CoreCompileInputs.cache
+C:\Users\Aldair\Documents\Coursera Certified Unity Course\More Programming\Ejercicio 10\AppleExercise\obj\Debug\AppleExercise.exe
+C:\Users\Aldair\Documents\Coursera Certified Unity Course\More Programming\Ejercicio 10\AppleExercise\obj\Debug\AppleExercise.pdb

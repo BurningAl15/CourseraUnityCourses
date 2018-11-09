@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 13 - Points, Jumps, and UI Challenge", "AsteraX UCP Video 13 - Points, Jumps, and UI Challenge.csproj", "{6396F06A-9A04-8797-6239-9D7CA8D76AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 13 - Points, Jumps, and UI Challenge.Plugins", "AsteraX UCP Video 13 - Points, Jumps, and UI Challenge.Plugins.csproj", "{741B3AF2-7169-3049-1E43-FC51BF54AB3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 13 - Points, Jumps, and UI Challenge.Editor.Plugins", "AsteraX UCP Video 13 - Points, Jumps, and UI Challenge.Editor.Plugins.csproj", "{95007B53-863E-9BD0-AD69-A7A651465C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteraX UCP Video 13 - Points, Jumps, and UI Challenge.Editor", "AsteraX UCP Video 13 - Points, Jumps, and UI Challenge.Editor.csproj", "{7ADA5826-2F8E-D8B5-F5CF-8C21B18FB719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6396F06A-9A04-8797-6239-9D7CA8D76AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6396F06A-9A04-8797-6239-9D7CA8D76AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6396F06A-9A04-8797-6239-9D7CA8D76AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6396F06A-9A04-8797-6239-9D7CA8D76AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741B3AF2-7169-3049-1E43-FC51BF54AB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741B3AF2-7169-3049-1E43-FC51BF54AB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741B3AF2-7169-3049-1E43-FC51BF54AB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741B3AF2-7169-3049-1E43-FC51BF54AB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95007B53-863E-9BD0-AD69-A7A651465C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95007B53-863E-9BD0-AD69-A7A651465C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95007B53-863E-9BD0-AD69-A7A651465C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95007B53-863E-9BD0-AD69-A7A651465C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ADA5826-2F8E-D8B5-F5CF-8C21B18FB719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADA5826-2F8E-D8B5-F5CF-8C21B18FB719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADA5826-2F8E-D8B5-F5CF-8C21B18FB719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADA5826-2F8E-D8B5-F5CF-8C21B18FB719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
