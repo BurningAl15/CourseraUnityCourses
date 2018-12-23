@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Bullet.cs">
+    <Files>
+      <File FileName="Assets\scripts\Driver.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameInitializer.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ConfigurationUtils.cs" Line="25" Column="23" />
+      <File FileName="Assets\scripts\Bullet.cs" Line="25" Column="29" />
+      <File FileName="Assets\scripts\ConfigurationData.cs" Line="17" Column="37" />
+      <File FileName="Assets\scripts\Shooter.cs" Line="34" Column="13" />
+      <File FileName="Assets\scripts\Timer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
